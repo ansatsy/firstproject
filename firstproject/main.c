@@ -23,7 +23,7 @@ int main() {
 
     float celsius, fahrenheit;
 
-    printSlow(BLUE  "Привет, я конвертер градусов, конвертирую Цельсию на Фаренгейт" RESET"\n", 5);
+    printSlow(BLUE  "Привет, я конвертер градусов, конвертирую Цельсию на Фаренгейт!" RESET"\n", 5);
     printSlow(YELLOW  "Напиши температуру по Цельсию: "RESET "\n", 8);
 
     if (scanf_s("%f", &celsius) != 1) {
