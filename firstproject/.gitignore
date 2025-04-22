@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build output
+x64/
+Debug/
+Release/
+
+# Others
+*.ipch
+*.obj
+*.log
+.vs/
+*.user
+*.vcxproj.*
+x64/
+Debug/
+Release/
